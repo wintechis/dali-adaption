@@ -1,5 +1,5 @@
-# Enabling Adaptation in Dynamic Manufacturing Environment with Decentralized Agent-Based Systems and Local Perception
-These files are our online appendix for our paper "Enabling Adaptation in Dynamic Manufacturing Environment with Decentralized Agent-Based Systems and Local Perception" for [SAC 2024](https://www.sigapp.org/sac/sac2024/) .
+# Enabling Adaptation in Dynamic Manufacturing Environments with Decentralized Agent-Based Systems and Local Perception
+These files are our online appendix for our paper "Enabling Adaptation in Dynamic Manufacturing Environments with Decentralized Agent-Based Systems and Local Perception" for [SAC 2024](https://www.sigapp.org/sac/sac2024/) .
 
 The goal is to investigate how decentralized agents can adapt in dynamic manufacturing environments, and to compare their performance to a centralized system. 
 We use mobile agents based on our DALI approach as control system for a driverless transportation system. DALIs are situated in an environment that can change outside their perception, and have to fullfil transportation orders that obey external goals and have stricts requirements.
